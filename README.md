@@ -3,7 +3,7 @@
 Simple media converter built with JavaScript in NodeJS. It allows you to convert images, audio and video files to different extensions.
 
 ![usage example](https://i.imgur.com/MOjVrmu.gif)
-### Dependencies:
+### Dependencies
 - ffmpeg (for audio and video conversion)
 - jimp (for image conversion)
 ### Installation
