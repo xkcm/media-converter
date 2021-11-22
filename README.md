@@ -15,7 +15,7 @@ Enter the directory and install all dependencies
 ```bash
 yarn
 ```
-Also if you do not have ffmpeg installed, it is also required to install this library, you can install it with:
+Also if you do not have ffmpeg installed, it is required to install this library, you can install it with:
 ```bash
 sudo apt install ffmpeg
 ```
